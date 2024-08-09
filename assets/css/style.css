@@ -724,7 +724,7 @@ footer{
         gap: 50px;
     }
     .col{
-        display: flex;
+        display: inline-grid;
         justify-content: center;
         width: 100%;
     }
